@@ -3,6 +3,6 @@
 ### Awesome Right?
 
 
-#### For installation go find the 'intall.m' file and run it! (yeah that SIMPLE!)
+#### For installation go find the 'biosig_installer.m' file and run it! (yeah that SIMPLE!)
 #### The installation is temporary!
 #### Although the 'savepath' command can be executed for permanent installation!!
