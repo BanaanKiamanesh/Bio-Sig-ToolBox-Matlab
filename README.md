@@ -1,5 +1,5 @@
 # This is the Bio-Signal for Matlab and Octave
-## Can be Used to Manilpulate '.gdf' format fiels!
+## Can be Used to Manilpulate '.gdf' format files!
 ### Awesome Right?
 
 
